@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    font-size: 16px;
+    font-size: 18px;
 }
 .half-width{
     width: 40%;
@@ -12,6 +12,9 @@ body{
     margin-top: 250px;
     margin-left: 160px;
     
+}
+#heading-left p{
+    text-align: justify;
 }
 h1{
     font-size: 50px;
@@ -26,6 +29,8 @@ h1{
     background-color:crimson;
     padding: 5px 15px;
     border-radius: 5px;
+    color: white;
+    margin-top: 5px;
 }
 
 .top-banner{
@@ -51,6 +56,11 @@ h1{
 }
 #bio-half-right{
     margin-top: 200px;
+    
+}
+#bio-half-right p{
+    text-align: justify;
+    
 }
 .last-work{
     background-image: url("images/latest-work-bg.png");
@@ -61,7 +71,7 @@ h1{
 h3{
     font-size: 40px;
     text-align: center;
-    margin-bottom: 120px;
+    margin-bottom: 150px;
     padding-top: 30px;
 }
 .work-image img{
@@ -94,6 +104,7 @@ h3{
     padding: 10px;
     text-align: center;
     border-radius: 10px;
+    font-size: 30px;
 
 }
 
@@ -101,23 +112,12 @@ h3{
     font-size: 20px;
 }
 .contact h2{
-    font-size: 30px;
+    font-size: 40px;
+    color:white;
 }
 
 footer{
     text-align: center;
-    padding: 80px;
+    padding: 50px;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
